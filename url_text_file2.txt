@@ -1,18 +1,12 @@
 How ChatGPT and Plugins are Empowering Citizen Data Scientists?
 
-Citizen data scientists are individuals who do not necessarily have formal training in data analysis or computer science but are able to use data to make informed decisions.
-
-ChatGPT and plugins are making it easier for these individuals to analyze and interpret data by enabling them to use natural language. This means they can ask questions and get answers in plain English, without knowing complex programming languages or statistical techniques. ChatGPT will provide the necessary piece of code if needed.
-
-In addition, citizen scientists can use ChatGPT as a personal expert who is always available to help them turn their idea into reality.
+Citizen data scientists are individuals who do not necessarily have formal training in data analysis or computer science but are able to use data to make informed decisions. ChatGPT and plugins are making it easier for these individuals to analyze and interpret data by enabling them to use natural language. This means they can ask questions and get answers in plain English, without knowing complex programming languages or statistical techniques. ChatGPT will provide the necessary piece of code if needed. In addition, citizen scientists can use ChatGPT as a personal expert who is always available to help them turn their idea into reality.
 
 Examples of ChatGPT and Plugin Applications
 
 1. Data visualization and analysis using ChatGPT and Plugins
 
-   One of the primary applications of ChatGPT and plugins is in the realm of data visualization and analysis. By combining the power of natural language processing with advanced data analytics tools, citizen data scientists can quickly generate visual representations of their data and extract meaningful insights.
-
-   For example, a user can simply ask ChatGPT to create a bar chart comparing sales across different product categories, and the tool will generate the appropriate visualization, making it easier for non-experts to understand complex data patterns.
+   One of the primary applications of ChatGPT and plugins is in the realm of data visualization and analysis. By combining the power of natural language processing with advanced data analytics tools, citizen data scientists can quickly generate visual representations of their data and extract meaningful insights. For example, a user can simply ask ChatGPT to create a bar chart comparing sales across different product categories, and the tool will generate the appropriate visualization, making it easier for non-experts to understand complex data patterns.
 
 2. Content creation and summarization
 
